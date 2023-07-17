@@ -1,4 +1,4 @@
-# Projects-Regression-Algorithms
+# Projects (Regression Algorithms)
 
 **Here are 10 popular projects that use regression algorithms:**
 
