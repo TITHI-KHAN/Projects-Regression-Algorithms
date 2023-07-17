@@ -24,7 +24,7 @@
 
 These datasets provide a good variety of domains and features to explore regression algorithms. 
 
-# Regression Algorithms with examples:
+# Regression Algorithms with Examples:
 
 **1. Linear Regression:**
 
